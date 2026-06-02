@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224240151
+# Name: SHEIK FAIZAL S
+# Date: 20/5/2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1242" height="1017" alt="image" src="https://github.com/user-attachments/assets/8b680810-d85e-4e85-8aa4-8973e6e6894e" />
 
 
 
@@ -59,6 +60,9 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1241" height="1019" alt="image" src="https://github.com/user-attachments/assets/a563f5d8-4ad9-4cdc-b84a-2d43f209ad3b" />
+
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -66,6 +70,9 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+
+<img width="1241" height="1020" alt="image" src="https://github.com/user-attachments/assets/f2701382-fed6-43a4-b609-aa0665659ff0" />
 
 
 
@@ -79,6 +86,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1242" height="1015" alt="image" src="https://github.com/user-attachments/assets/67716390-73d4-4844-9b7a-82291f5e368a" />
 
 
 
@@ -96,6 +104,8 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+
+<img width="1238" height="1015" alt="image" src="https://github.com/user-attachments/assets/e3fc5618-5fd5-4077-b75d-94c8e5436f3c" />
 
 
 
@@ -119,6 +129,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1240" height="1015" alt="image" src="https://github.com/user-attachments/assets/c570ff47-ae62-45cc-974b-9322d50d959f" />
 
 
 
